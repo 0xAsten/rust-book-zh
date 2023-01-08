@@ -26,4 +26,4 @@
 
 ### 11. [测试驱动](./%E6%B5%8B%E8%AF%95%E9%A9%B1%E5%8A%A8.md)
 
-### 12. [Gussing Game](./Gussing-Game.md)
+### 12. [构建命令行程序](./%E6%9E%84%E5%BB%BA%E5%91%BD%E4%BB%A4%E8%A1%8C%E7%A8%8B%E5%BA%8F.md)
