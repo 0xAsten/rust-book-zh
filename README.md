@@ -27,3 +27,7 @@
 ### 11. [测试驱动](./%E6%B5%8B%E8%AF%95%E9%A9%B1%E5%8A%A8.md)
 
 ### 12. [构建命令行程序](./%E6%9E%84%E5%BB%BA%E5%91%BD%E4%BB%A4%E8%A1%8C%E7%A8%8B%E5%BA%8F.md)
+
+### 13. [函数式语言特性：迭代器和闭包](./%E8%BF%AD%E4%BB%A3%E5%99%A8%E5%92%8C%E9%97%AD%E5%8C%85.md)
+
+### 14. [Cargo 和 Crates.io](./Cargo%26Crates.io.md)
