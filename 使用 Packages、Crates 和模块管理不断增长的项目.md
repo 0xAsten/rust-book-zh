@@ -14,7 +14,7 @@ _package_ 是提供一组功能的一个或多个 crates 的捆绑包。一个 p
 
 ### 模块编译规则
 
-- 编译 crate 时，编译器首先查看 crate 根文件（通常 src/lib.rs library crate 或 src/main.rs 用于 binary crate）。
+- 编译 crate 时，编译器首先查看 crate 根文件（通常 src/lib.rs 用于 library crate 或 src/main.rs 用于 binary crate）。
 
 - 在 crate 根文件可以声明新的模块，假设使用 mod garden; 命令声明一个 “garden” 模块，编译器会在以下位置找模块的实现代码：
 
@@ -193,7 +193,7 @@ mod customer {
 
 使用 use 将函数带入作用域的惯用方式是用 use 将函数的父模块带入作用域，意味着我们必须在调用函数时指定父模块。
 
-另一方面，当使用 use 引入 struct、枚举时，习惯上指定完整路径。例如：
+另一方面，当使用 use 引入 struct、枚举时，习惯上指定完整路径即绝对路径。例如：
 
 ```rust
 use std::collections::HashMap;
