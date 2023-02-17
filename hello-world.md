@@ -28,7 +28,7 @@ $ rustc --version
 $ rustup update
 ```
 
-下载 Rust
+卸载 Rust
 
 ```
 $ rustup self uninstall
