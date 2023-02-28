@@ -1,0 +1,169 @@
+{
+  "main": {
+    "id": "d18dc0ae6ca9d55e",
+    "type": "split",
+    "children": [
+      {
+        "id": "bdf5ddcfd5a52be8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2ae94847f2a90f56",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "09692c96878d2fc4",
+    "type": "split",
+    "children": [
+      {
+        "id": "48b60e03a71804cd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "241af5ecf59ddb79",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d5f42ecc6335a634",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "be3cee864b548aad",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "625db75b0eb29153",
+    "type": "split",
+    "children": [
+      {
+        "id": "f2e5dab2f72ae118",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "39e102e5f6140c7d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "58540d4477f0295e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "31dde23704a070d6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "03f7064fcf0ba9aa",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "2ae94847f2a90f56",
+  "lastOpenFiles": [
+    "4. 所有权.md",
+    "README.md",
+    "3. Rust-编程基础.md",
+    "16. 并发.md",
+    "15. 智能指针.md",
+    "14. Cargo&Crates.io.md",
+    "11. 测试驱动.md",
+    "13. 迭代器和闭包.md",
+    "10. 泛型_特征_生命周期.md",
+    "9. 错误处理.md",
+    "8. 常用的集合类型.md",
+    "7. 使用 Packages、Crates 和模块管理不断增长的项目.md",
+    "6. 枚举和模式匹配.md",
+    "5. 自定义数据结构.md",
+    "2. 猜数字游戏.md",
+    "1. hello-world.md",
+    "12. 构建命令行程序.md"
+  ]
+}
